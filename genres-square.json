@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sci-fi-folder",
+    "name": "Sci-fi",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/sciencefiction.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "thriller-folder",
+    "name": "Thriller",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/thriller.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "horror-folder",
+    "name": "Horror",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/horror.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "crime-folder",
+    "name": "Crime",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/crime.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "action-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/action.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "drama-folder",
+    "name": "Drama",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/drama.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "history-folder",
+    "name": "History",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/history.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "comedy-folder",
+    "name": "Comedy",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/comedy.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]

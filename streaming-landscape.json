@@ -1,0 +1,269 @@
+[
+    {
+      "id": "netflix-folder",
+      "name": "Netflix",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Netflix/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "appletv-folder",
+      "name": "Apple TV+",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Apple%20TV%2B/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "hbomax-folder",
+      "name": "HBO Max",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/HBO%20Max/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "disney-folder",
+      "name": "Disney+",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Disney%2B/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "primevideo-folder",
+      "name": "Prime Video",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Amazon%20Prime%20Video/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "paramount-folder",
+      "name": "Paramount+",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Paramount%2B/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "hulu-folder",
+      "name": "Hulu",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Hulu/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "skyshowtime-folder",
+      "name": "SkyShowtime",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/nacholibre2025/FusionFolder/7120dcbb9689db4d4b239ef34e6eeb74db908545/image/Skyshowtime.png",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "peacock-folder",
+      "name": "Peacock",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/9f9cbabce5c88c881710100d6ac1e958a0bfde14/images/imagesbyname/studios/Peacock/thumb.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "discoveryplus-folder",
+      "name": "Discovery Plus",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/nacholibre2025/FusionFolder/952b09fbc86d920d442dfe91a53b32cd8f35730c/image/discoveryplus.jpg",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "history-folder",
+      "name": "History",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": null,
+      "logoURL": "https://e7.pngegg.com/pngimages/804/149/png-clipart-history-history-channel-icons-logos-emojis-iconic-brands-thumbnail.png",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": true,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "mtv-folder",
+      "name": "MTV",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#FFFFFF",
+      "backgroundImageURL": null,
+      "logoURL": "https://cdn.freebiesupply.com/images/large/2x/mtv-logo-png-transparent.png",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": true,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "adult-swim-folder",
+      "name": "Adult Swim",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#FFFFFF",
+      "backgroundImageURL": null,
+      "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DtLerPw7DlCxzOsQVJ4FatHgb82sHM8jwQ&s",
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": true,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    },
+    {
+      "id": "live-tv-folder",
+      "name": "Live TV",
+      "category": "Streaming Services",
+      "catalogIds": [
+  
+      ],
+      "displayMode": "Grid",
+      "layout": "Landscape",
+      "backgroundColor": "#000000",
+      "backgroundImageURL": "https://raw.githubusercontent.com/nacholibre2025/FusionFolder/refs/heads/main/image/live_tv.png",
+      "logoURL": null,
+      "mediaTypeFilter": "All Content",
+      "iconName": "tv",
+      "showIcon": false,
+      "nameDisplayMode": "Below Folder",
+      "textSize": "Medium",
+      "textWeight": "Bold"
+    }
+  ]
+  
