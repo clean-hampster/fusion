@@ -150,5 +150,24 @@
     "nameDisplayMode": "Below Folder",
     "textSize": "Medium",
     "textWeight": "Bold"
+  },
+  {
+    "id": "history-folder",
+    "name": "History",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Square",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/history.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
   }
 ]
