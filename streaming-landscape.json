@@ -190,8 +190,8 @@
     "textWeight": "Bold"
   },
   {
-    "id": "history-folder",
-    "name": "History",
+    "id": "history-channel-folder",
+    "name": "History Channel",
     "category": "Streaming Services",
     "catalogIds": [
 
@@ -209,8 +209,8 @@
     "textWeight": "Bold"
   },
   {
-    "id": "mtv-folder",
-    "name": "MTV",
+    "id": "national-geographic-folder",
+    "name": "National Geographic",
     "category": "Streaming Services",
     "catalogIds": [
 
@@ -219,7 +219,7 @@
     "layout": "Landscape",
     "backgroundColor": "#FFFFFF",
     "backgroundImageURL": null,
-    "logoURL": "https://cdn.freebiesupply.com/images/large/2x/mtv-logo-png-transparent.png",
+    "logoURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/national-geographic.png",
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": true,
@@ -239,6 +239,25 @@
     "backgroundColor": "#000000",
     "backgroundImageURL": null,
     "logoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DtLerPw7DlCxzOsQVJ4FatHgb82sHM8jwQ&s",
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": true,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "mtv-folder",
+    "name": "MTV",
+    "category": "Streaming Services",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#FFFFFF",
+    "backgroundImageURL": null,
+    "logoURL": "https://cdn.freebiesupply.com/images/large/2x/mtv-logo-png-transparent.png",
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
     "showIcon": true,
