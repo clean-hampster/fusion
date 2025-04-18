@@ -1,0 +1,268 @@
+[
+  {
+    "id": "netflix-folder-1",
+    "name": "Netflix",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Netflix.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "hbomax-folder-1",
+    "name": "HBO Max",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/HBO%20MAX.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "appletv-folder-1",
+    "name": "Apple TV+",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Apple%20TV%2B.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "disney-folder-1",
+    "name": "Disney+",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Disney%2B.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "primevideo-folder-1",
+    "name": "Prime Video",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Prime%20Video.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "paramount-folder-1",
+    "name": "Paramount+",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Paramount%2B.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "hulu-folder-1",
+    "name": "Hulu",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Hulu.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "peacock-folder-1",
+    "name": "Peacock",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Peacock.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "discoveryplus-folder-1",
+    "name": "Discovery Plus",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Discovery%2B.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "history-channel-folder-1",
+    "name": "History Channel",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/History%20Channel.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "national-geographic-folder-1",
+    "name": "National Geographic",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#FFFFFF",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/National%20Geographic.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "adult-swim-folder-1",
+    "name": "Adult Swim",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/adult%20swim.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "mtv-folder-1",
+    "name": "MTV",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#FFFFFF",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/MTV.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "live-tv-folder-1",
+    "name": "Live TV",
+    "category": "Explore Channels & Apps",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/Facebook%20Watch.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
