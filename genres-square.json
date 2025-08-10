@@ -2,14 +2,14 @@
   {
     "id": "sci-fi-folder",
     "name": "Sci-Fi",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/sciencefiction.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Scifi.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -21,14 +21,14 @@
   {
     "id": "thriller-folder",
     "name": "Thriller",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/thriller.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/thriller.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -40,14 +40,33 @@
   {
     "id": "horror-folder",
     "name": "Horror",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/horror.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Horror.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "documentary-folder",
+    "name": "Documentary",
+    "category": "Browse by Genre",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Documentary.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -59,14 +78,14 @@
   {
     "id": "crime-folder",
     "name": "Crime",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/crime.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Crime.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -78,14 +97,14 @@
   {
     "id": "action-folder",
     "name": "Action",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/action.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Action.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -97,14 +116,14 @@
   {
     "id": "drama-folder",
     "name": "Drama",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/drama.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Drama.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -116,14 +135,14 @@
   {
     "id": "history-folder",
     "name": "History",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/history.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/History.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -135,33 +154,14 @@
   {
     "id": "comedy-folder",
     "name": "Comedy",
-    "category": "Genres",
+    "category": "Browse by Genre",
     "catalogIds": [
 
     ],
     "displayMode": "Grid",
-    "layout": "Square",
+    "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/comedy.png",
-    "logoURL": null,
-    "mediaTypeFilter": "All Content",
-    "iconName": "tv",
-    "showIcon": false,
-    "nameDisplayMode": "Below Folder",
-    "textSize": "Medium",
-    "textWeight": "Bold"
-  },
-  {
-    "id": "history-folder",
-    "name": "History",
-    "category": "Genres",
-    "catalogIds": [
-
-    ],
-    "displayMode": "Grid",
-    "layout": "Square",
-    "backgroundColor": "#000000",
-    "backgroundImageURL": "https://files.orangebyte.io/resources/omni/images/groups/history.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/clean-hampster/fusion/refs/heads/main/images/apple/Comedy.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
